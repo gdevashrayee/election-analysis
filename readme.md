@@ -27,8 +27,8 @@ I initialised a python script that reads the election data set, utilizes loop,co
 **Code Used**<br />
 <p float="left">	
 	<img src="https://github.com/gdevashrayee/election-analysis/blob/main/img/img_1.PNG" width="100" />	
-	<img src="/img/img_2.PNG" width="100" />	
-	<img src="/img/img_3.PNG" width="100" />
+	<img src="https://github.com/gdevashrayee/election-analysis/blob/main/img/img_1.PNG" width="100" />	
+	<img src="https://github.com/gdevashrayee/election-analysis/blob/main/img/img_1.PNG" width="100" />
 </p>
 
 **Output in the text file**<br />
