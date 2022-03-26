@@ -44,12 +44,11 @@ I initialised a python script that reads the election data set, utilizes loop,co
 Of the total votes cast, 10.5% (38,855) were from Jefferson, 82.8% (306,055) were accounted from Denver and the remaining 6.7% (24,801) were from Arapahoe.
 
 **Code Used**<br />
-
-<p align="left">	
-	<img src="./img/img_5.PNG" width="200" />	
-	<img src="./img/img_6.PNG" width="200" />	
+<p align="left">
+	<img src="./img/img_5.PNG" width="200" />
+	<img src="./img/img_6.PNG" width="200" />
 	<img src="./img/img_7.PNG" width="200" />
-</p>
+</p>
 
 **Output in the text file**<br />
 
@@ -60,10 +59,10 @@ Of the total votes cast, 10.5% (38,855) were from Jefferson, 82.8% (306,055) wer
 * From the results shown above, it can be clearly determined that the highest voter turnout was from Denver accounting for 82.8% of the total votes cast.
   Below is the code used to run the output and the result as displayed in the text file:
 
-<p align="left">	
-	<img src="./img/img_9.PNG" width="200" />	
-	<img src="./img/img_10.PNG" width="200" />	
-</p>
+<p align="left">
+	<img src="./img/img_9.PNG" width="200" />
+	<img src="./img/img_10.PNG" width="200" />
+</p>
 
 **4. Breakdown of the number of votes and the percentage of the total votes each candidate received.**<br />
 * There were three participating candidates in this election.<br />
@@ -77,12 +76,11 @@ Based on he data set and the analysis, below are the results for each candidate:
   - Raymon Anthony Doane received 11,606 votes, accounting for only 3.1% of the total votes.
 
 **Code Used**<br />
-
-<p align="left">	
-	<img src="./img/img_11.PNG" width="200" />	
-	<img src="./img/img_12.PNG" width="200" />	
+<p align="left">
+	<img src="./img/img_11.PNG" width="200" />
+	<img src="./img/img_12.PNG" width="200" />
 	<img src="./img/img_13.PNG" width="200" />
-</p>
+</p>
 
 **Output in the text file**<br />
 
