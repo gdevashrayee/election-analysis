@@ -26,13 +26,10 @@ I initialised a python script that reads the election data set, utilizes loop,co
   
 **Code Used**<br />
 <p align="left">
-	<img src="./img/img_1.PNG" width="300" />
-	<img src="./img/img_2.PNG" width="300" />
-	<img src="./img/img_3.PNG" width="300" />
+	<img src="./img/img_1.PNG" width="200" />
+	<img src="./img/img_2.PNG" width="200" />
+	<img src="./img/img_3.PNG" width="200" />
 </p>
-<p float="left">	
-	<img src="./img/img_1.PNG" width="100" />	
-</p>
 
 **Output in the text file**<br />
 ![Total votes](./img/img_4.PNG)
@@ -48,10 +45,10 @@ Of the total votes cast, 10.5% (38,855) were from Jefferson, 82.8% (306,055) wer
 
 **Code Used**<br />
 
-<p float="left">	
-	<img src="./img/img_5.PNG" width="100" />	
-	<img src="./img/img_6.PNG" width="100" />	
-	<img src="./img/img_7.PNG" width="100" />
+<p align="left">	
+	<img src="./img/img_5.PNG" width="200" />	
+	<img src="./img/img_6.PNG" width="200" />	
+	<img src="./img/img_7.PNG" width="200" />
 </p>
 
 **Output in the text file**<br />
@@ -63,9 +60,9 @@ Of the total votes cast, 10.5% (38,855) were from Jefferson, 82.8% (306,055) wer
 * From the results shown above, it can be clearly determined that the highest voter turnout was from Denver accounting for 82.8% of the total votes cast.
   Below is the code used to run the output and the result as displayed in the text file:
 
-<p float="left">	
-	<img src="./img/img_9.PNG" width="100" />	
-	<img src="./img/img_10.PNG" width="100" />	
+<p align="left">	
+	<img src="./img/img_9.PNG" width="200" />	
+	<img src="./img/img_10.PNG" width="200" />	
 </p>
 
 **4. Breakdown of the number of votes and the percentage of the total votes each candidate received.**<br />
@@ -81,10 +78,10 @@ Based on he data set and the analysis, below are the results for each candidate:
 
 **Code Used**<br />
 
-<p float="left">	
-	<img src="./img/img_11.PNG" width="100" />	
-	<img src="./img/img_12.PNG" width="100" />	
-	<img src="./img/img_13.PNG" width="100" />
+<p align="left">	
+	<img src="./img/img_11.PNG" width="200" />	
+	<img src="./img/img_12.PNG" width="200" />	
+	<img src="./img/img_13.PNG" width="200" />
 </p>
 
 **Output in the text file**<br />
