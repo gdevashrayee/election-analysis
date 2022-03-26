@@ -28,7 +28,8 @@ I initialised a python script that reads the election data set, utilizes loop,co
 
 ![Total votes](./img/img_1.PNG)
 
-![Total votes](./img/img_2.PNG) 
+![Total votes](./img/img_2.PNG)
+
 ![Total votes](./img/img_3.PNG)
 
 **Output in the text file**<br />
