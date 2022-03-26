@@ -26,7 +26,9 @@ I initialised a python script that reads the election data set, utilizes loop,co
   
 **Code Used**<br />
 <p align="left">
-	<img src="./img/img_1.PNG" width="100" />
+	<img src="./img/img_1.PNG" width="300" />
+	<img src="./img/img_2.PNG" width="300" />
+	<img src="./img/img_3.PNG" width="300" />
 </p>
 <p float="left">	
 	<img src="./img/img_1.PNG" width="100" />	
