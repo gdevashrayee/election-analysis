@@ -25,7 +25,10 @@ I initialised a python script that reads the election data set, utilizes loop,co
   Below are the images showing the codes and the output in the text file:<br />
   
 **Code Used**<br />
-<img src="./img/img_1.PNG" width="100" /><p float="left">	
+<p align="left">
+	<img src="./img/img_1.PNG" width="100" />
+</p>
+<p float="left">	
 	<img src="./img/img_1.PNG" width="100" />	
 </p>
 
