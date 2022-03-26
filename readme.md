@@ -25,7 +25,9 @@ I initialised a python script that reads the election data set, utilizes loop,co
   Below are the images showing the codes and the output in the text file:<br />
   
 **Code Used**<br />
-![Total votes](./img/img_1.PNG) 
+
+![Total votes](./img/img_1.PNG)
+
 ![Total votes](./img/img_2.PNG) 
 ![Total votes](./img/img_3.PNG)
 
